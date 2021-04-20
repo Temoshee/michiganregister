@@ -1,4 +1,2 @@
 field,display_name,btn,hidden,sort_name
-date,Date,,,Date
-creator,Creator,,,
-subject,,true,,
+date,Election Year,,,
