@@ -1,0 +1,647 @@
+{
+    "title": {
+        "media": {
+          "url": "/ballotproposals/assets/img/banner.png",
+          "caption": null,
+          "credit": "Michigan Statewide Ballot Proposals"
+        },
+        "text": {
+          "headline": "Michigan Statewide Ballot Proposals Timeline",
+          "text": "Statewide ballot proposals scanned to PDF format."
+        }
+    },
+    "events": [
+      {
+        "media": {
+          "url": "https://cdm16110.contentdm.oclc.org/utils/getthumbnail/collection/p16110coll7/id/104541",
+          "caption": "1931 Michigan Ballot Proposals",
+          "link": "/ballotproposals/items/cdm104541.html",
+          "credit": "Michigan Statewide Ballot Proposals"
+        },
+        "start_date": { 
+          "year": "1931"
+        },
+        "text": {
+          "headline": "1931 Michigan Ballot Proposals"
+        }
+      },{
+        "media": {
+          "url": "https://cdm16110.contentdm.oclc.org/utils/getthumbnail/collection/p16110coll7/id/104548",
+          "caption": "1932 Michigan Ballot Proposals",
+          "link": "/ballotproposals/items/cdm104548.html",
+          "credit": "Michigan Statewide Ballot Proposals"
+        },
+        "start_date": { 
+          "year": "1932"
+        },
+        "text": {
+          "headline": "1932 Michigan Ballot Proposals"
+        }
+      },{
+        "media": {
+          "url": "https://cdm16110.contentdm.oclc.org/utils/getthumbnail/collection/p16110coll7/id/104542",
+          "caption": "1934 Michigan Ballot Proposals",
+          "link": "/ballotproposals/items/cdm104542.html",
+          "credit": "Michigan Statewide Ballot Proposals"
+        },
+        "start_date": { 
+          "year": "1934"
+        },
+        "text": {
+          "headline": "1934 Michigan Ballot Proposals"
+        }
+      },{
+        "media": {
+          "url": "https://cdm16110.contentdm.oclc.org/utils/getthumbnail/collection/p16110coll7/id/104543",
+          "caption": "1935 Michigan Ballot Propsal",
+          "link": "/ballotproposals/items/cdm104543.html",
+          "credit": "Michigan Statewide Ballot Proposals"
+        },
+        "start_date": { 
+          "year": "1935"
+        },
+        "text": {
+          "headline": "1935 Michigan Ballot Propsal"
+        }
+      },{
+        "media": {
+          "url": "https://cdm16110.contentdm.oclc.org/utils/getthumbnail/collection/p16110coll7/id/104544",
+          "caption": "1936 Michigan Ballot Proposals",
+          "link": "/ballotproposals/items/cdm104544.html",
+          "credit": "Michigan Statewide Ballot Proposals"
+        },
+        "start_date": { 
+          "year": "1936"
+        },
+        "text": {
+          "headline": "1936 Michigan Ballot Proposals"
+        }
+      },{
+        "media": {
+          "url": "https://cdm16110.contentdm.oclc.org/utils/getthumbnail/collection/p16110coll7/id/104545",
+          "caption": "1938 Michigan Ballot Proposals",
+          "link": "/ballotproposals/items/cdm104545.html",
+          "credit": "Michigan Statewide Ballot Proposals"
+        },
+        "start_date": { 
+          "year": "1938"
+        },
+        "text": {
+          "headline": "1938 Michigan Ballot Proposals"
+        }
+      },{
+        "media": {
+          "url": "https://cdm16110.contentdm.oclc.org/utils/getthumbnail/collection/p16110coll7/id/104546",
+          "caption": "1939 Michigan Ballot Proposals",
+          "link": "/ballotproposals/items/cdm104546.html",
+          "credit": "Michigan Statewide Ballot Proposals"
+        },
+        "start_date": { 
+          "year": "1939"
+        },
+        "text": {
+          "headline": "1939 Michigan Ballot Proposals"
+        }
+      },{
+        "media": {
+          "url": "https://cdm16110.contentdm.oclc.org/utils/getthumbnail/collection/p16110coll7/id/104547",
+          "caption": "1940 Michigan Ballot Proposals",
+          "link": "/ballotproposals/items/cdm104547.html",
+          "credit": "Michigan Statewide Ballot Proposals"
+        },
+        "start_date": { 
+          "year": "1940"
+        },
+        "text": {
+          "headline": "1940 Michigan Ballot Proposals"
+        }
+      },{
+        "media": {
+          "url": "https://cdm16110.contentdm.oclc.org/utils/getthumbnail/collection/p16110coll7/id/104558",
+          "caption": "1942 Michigan Ballot Proposals",
+          "link": "/ballotproposals/items/cdm104558.html",
+          "credit": "Michigan Statewide Ballot Proposals"
+        },
+        "start_date": { 
+          "year": "1942"
+        },
+        "text": {
+          "headline": "1942 Michigan Ballot Proposals"
+        }
+      },{
+        "media": {
+          "url": "https://cdm16110.contentdm.oclc.org/utils/getthumbnail/collection/p16110coll7/id/104559",
+          "caption": "1944 Michigan Ballot Proposals",
+          "link": "/ballotproposals/items/cdm104559.html",
+          "credit": "Michigan Statewide Ballot Proposals"
+        },
+        "start_date": { 
+          "year": "1944"
+        },
+        "text": {
+          "headline": "1944 Michigan Ballot Proposals"
+        }
+      },{
+        "media": {
+          "url": "https://cdm16110.contentdm.oclc.org/utils/getthumbnail/collection/p16110coll7/id/104530",
+          "caption": "1968 (August) Michigan Ballot Proposals",
+          "link": "/ballotproposals/items/cdm104530.html",
+          "credit": "Michigan Statewide Ballot Proposals"
+        },
+        "start_date": { 
+          "month": "08",
+          "day": "",
+          "year": "1968"
+        },
+        "text": {
+          "headline": "1968 (August) Michigan Ballot Proposals"
+        }
+      },{
+        "media": {
+          "url": "https://cdm16110.contentdm.oclc.org/utils/getthumbnail/collection/p16110coll7/id/104531",
+          "caption": "1968 (November) Michigan Ballot Proposals",
+          "link": "/ballotproposals/items/cdm104531.html",
+          "credit": "Michigan Statewide Ballot Proposals"
+        },
+        "start_date": { 
+          "month": "11",
+          "day": "",
+          "year": "1968"
+        },
+        "text": {
+          "headline": "1968 (November) Michigan Ballot Proposals"
+        }
+      },{
+        "media": {
+          "url": "https://cdm16110.contentdm.oclc.org/utils/getthumbnail/collection/p16110coll7/id/104490",
+          "caption": "1972 (August) Michigan Ballot Proposal 'A'",
+          "link": "/ballotproposals/items/cdm104490.html",
+          "credit": "Michigan Statewide Ballot Proposals"
+        },
+        "start_date": { 
+          "month": "08",
+          "day": "",
+          "year": "1972"
+        },
+        "text": {
+          "headline": "1972 (August) Michigan Ballot Proposal 'A'"
+        }
+      },{
+        "media": {
+          "url": "https://cdm16110.contentdm.oclc.org/utils/getthumbnail/collection/p16110coll7/id/104491",
+          "caption": "1972 (May) Michigan Ballot Proposal 'A'",
+          "link": "/ballotproposals/items/cdm104491.html",
+          "credit": "Michigan Statewide Ballot Proposals"
+        },
+        "start_date": { 
+          "month": "05",
+          "day": "",
+          "year": "1972"
+        },
+        "text": {
+          "headline": "1972 (May) Michigan Ballot Proposal 'A'"
+        }
+      },{
+        "media": {
+          "url": "https://cdm16110.contentdm.oclc.org/utils/getthumbnail/collection/p16110coll7/id/104492",
+          "caption": "1972 (May) Michigan Ballot Proposal 'B'",
+          "link": "/ballotproposals/items/cdm104492.html",
+          "credit": "Michigan Statewide Ballot Proposals"
+        },
+        "start_date": { 
+          "month": "05",
+          "day": "",
+          "year": "1972"
+        },
+        "text": {
+          "headline": "1972 (May) Michigan Ballot Proposal 'B'"
+        }
+      },{
+        "media": {
+          "url": "https://cdm16110.contentdm.oclc.org/utils/getthumbnail/collection/p16110coll7/id/104493",
+          "caption": "1972 (November) Michigan Ballot Proposal 'A'",
+          "link": "/ballotproposals/items/cdm104493.html",
+          "credit": "Michigan Statewide Ballot Proposals"
+        },
+        "start_date": { 
+          "month": "11",
+          "day": "",
+          "year": "1972"
+        },
+        "text": {
+          "headline": "1972 (November) Michigan Ballot Proposal 'A'"
+        }
+      },{
+        "media": {
+          "url": "https://cdm16110.contentdm.oclc.org/utils/getthumbnail/collection/p16110coll7/id/104494",
+          "caption": "1972 (November) Michigan Ballot Proposal 'B'",
+          "link": "/ballotproposals/items/cdm104494.html",
+          "credit": "Michigan Statewide Ballot Proposals"
+        },
+        "start_date": { 
+          "month": "11",
+          "day": "",
+          "year": "1972"
+        },
+        "text": {
+          "headline": "1972 (November) Michigan Ballot Proposal 'B'"
+        }
+      },{
+        "media": {
+          "url": "https://cdm16110.contentdm.oclc.org/utils/getthumbnail/collection/p16110coll7/id/104495",
+          "caption": "1972 (November) Michigan Ballot Proposal 'C'",
+          "link": "/ballotproposals/items/cdm104495.html",
+          "credit": "Michigan Statewide Ballot Proposals"
+        },
+        "start_date": { 
+          "month": "11",
+          "day": "",
+          "year": "1972"
+        },
+        "text": {
+          "headline": "1972 (November) Michigan Ballot Proposal 'C'"
+        }
+      },{
+        "media": {
+          "url": "https://cdm16110.contentdm.oclc.org/utils/getthumbnail/collection/p16110coll7/id/104496",
+          "caption": "1972 (November) Michigan Ballot Proposal 'D'",
+          "link": "/ballotproposals/items/cdm104496.html",
+          "credit": "Michigan Statewide Ballot Proposals"
+        },
+        "start_date": { 
+          "month": "11",
+          "day": "",
+          "year": "1972"
+        },
+        "text": {
+          "headline": "1972 (November) Michigan Ballot Proposal 'D'"
+        }
+      },{
+        "media": {
+          "url": "https://cdm16110.contentdm.oclc.org/utils/getthumbnail/collection/p16110coll7/id/104497",
+          "caption": "1972 (November) Michigan Ballot Proposal 'E'",
+          "link": "/ballotproposals/items/cdm104497.html",
+          "credit": "Michigan Statewide Ballot Proposals"
+        },
+        "start_date": { 
+          "month": "11",
+          "day": "",
+          "year": "1972"
+        },
+        "text": {
+          "headline": "1972 (November) Michigan Ballot Proposal 'E'"
+        }
+      },{
+        "media": {
+          "url": "https://cdm16110.contentdm.oclc.org/utils/getthumbnail/collection/p16110coll7/id/104508",
+          "caption": "1974 Michigan Ballot Proposal 'A'",
+          "link": "/ballotproposals/items/cdm104508.html",
+          "credit": "Michigan Statewide Ballot Proposals"
+        },
+        "start_date": { 
+          "year": "1974"
+        },
+        "text": {
+          "headline": "1974 Michigan Ballot Proposal 'A'"
+        }
+      },{
+        "media": {
+          "url": "https://cdm16110.contentdm.oclc.org/utils/getthumbnail/collection/p16110coll7/id/104509",
+          "caption": "1974 Michigan Ballot Proposal 'B'",
+          "link": "/ballotproposals/items/cdm104509.html",
+          "credit": "Michigan Statewide Ballot Proposals"
+        },
+        "start_date": { 
+          "year": "1974"
+        },
+        "text": {
+          "headline": "1974 Michigan Ballot Proposal 'B'"
+        }
+      },{
+        "media": {
+          "url": "https://cdm16110.contentdm.oclc.org/utils/getthumbnail/collection/p16110coll7/id/104510",
+          "caption": "1974 Michigan Ballot Proposal 'C'",
+          "link": "/ballotproposals/items/cdm104510.html",
+          "credit": "Michigan Statewide Ballot Proposals"
+        },
+        "start_date": { 
+          "year": "1974"
+        },
+        "text": {
+          "headline": "1974 Michigan Ballot Proposal 'C'"
+        }
+      },{
+        "media": {
+          "url": "https://cdm16110.contentdm.oclc.org/utils/getthumbnail/collection/p16110coll7/id/104511",
+          "caption": "1974 Michigan Ballot Proposal 'D'",
+          "link": "/ballotproposals/items/cdm104511.html",
+          "credit": "Michigan Statewide Ballot Proposals"
+        },
+        "start_date": { 
+          "year": "1974"
+        },
+        "text": {
+          "headline": "1974 Michigan Ballot Proposal 'D'"
+        }
+      },{
+        "media": {
+          "url": "https://cdm16110.contentdm.oclc.org/utils/getthumbnail/collection/p16110coll7/id/104528",
+          "caption": "1976 Michigan Ballot Proposal 'A'",
+          "link": "/ballotproposals/items/cdm104528.html",
+          "credit": "Michigan Statewide Ballot Proposals"
+        },
+        "start_date": { 
+          "year": "1976"
+        },
+        "text": {
+          "headline": "1976 Michigan Ballot Proposal 'A'"
+        }
+      },{
+        "media": {
+          "url": "https://cdm16110.contentdm.oclc.org/utils/getthumbnail/collection/p16110coll7/id/104525",
+          "caption": "1976 Michigan Ballot Proposal 'B'",
+          "link": "/ballotproposals/items/cdm104525.html",
+          "credit": "Michigan Statewide Ballot Proposals"
+        },
+        "start_date": { 
+          "year": "1976"
+        },
+        "text": {
+          "headline": "1976 Michigan Ballot Proposal 'B'"
+        }
+      },{
+        "media": {
+          "url": "https://cdm16110.contentdm.oclc.org/utils/getthumbnail/collection/p16110coll7/id/104526",
+          "caption": "1976 Michigan Ballot Proposal 'C'",
+          "link": "/ballotproposals/items/cdm104526.html",
+          "credit": "Michigan Statewide Ballot Proposals"
+        },
+        "start_date": { 
+          "year": "1976"
+        },
+        "text": {
+          "headline": "1976 Michigan Ballot Proposal 'C'"
+        }
+      },{
+        "media": {
+          "url": "https://cdm16110.contentdm.oclc.org/utils/getthumbnail/collection/p16110coll7/id/104527",
+          "caption": "1976 Michigan Ballot Proposal 'D'",
+          "link": "/ballotproposals/items/cdm104527.html",
+          "credit": "Michigan Statewide Ballot Proposals"
+        },
+        "start_date": { 
+          "year": "1976"
+        },
+        "text": {
+          "headline": "1976 Michigan Ballot Proposal 'D'"
+        }
+      },{
+        "media": {
+          "url": "https://cdm16110.contentdm.oclc.org/utils/getthumbnail/collection/p16110coll7/id/104513",
+          "caption": "1978 Michigan Ballot Proposal 'A'",
+          "link": "/ballotproposals/items/cdm104513.html",
+          "credit": "Michigan Statewide Ballot Proposals"
+        },
+        "start_date": { 
+          "year": "1978"
+        },
+        "text": {
+          "headline": "1978 Michigan Ballot Proposal 'A'"
+        }
+      },{
+        "media": {
+          "url": "https://cdm16110.contentdm.oclc.org/utils/getthumbnail/collection/p16110coll7/id/104514",
+          "caption": "1978 Michigan Ballot Proposal 'B'",
+          "link": "/ballotproposals/items/cdm104514.html",
+          "credit": "Michigan Statewide Ballot Proposals"
+        },
+        "start_date": { 
+          "year": "1978"
+        },
+        "text": {
+          "headline": "1978 Michigan Ballot Proposal 'B'"
+        }
+      },{
+        "media": {
+          "url": "https://cdm16110.contentdm.oclc.org/utils/getthumbnail/collection/p16110coll7/id/104515",
+          "caption": "1978 Michigan Ballot Proposal 'C'",
+          "link": "/ballotproposals/items/cdm104515.html",
+          "credit": "Michigan Statewide Ballot Proposals"
+        },
+        "start_date": { 
+          "year": "1978"
+        },
+        "text": {
+          "headline": "1978 Michigan Ballot Proposal 'C'"
+        }
+      },{
+        "media": {
+          "url": "https://cdm16110.contentdm.oclc.org/utils/getthumbnail/collection/p16110coll7/id/104516",
+          "caption": "1978 Michigan Ballot Proposal 'D'",
+          "link": "/ballotproposals/items/cdm104516.html",
+          "credit": "Michigan Statewide Ballot Proposals"
+        },
+        "start_date": { 
+          "year": "1978"
+        },
+        "text": {
+          "headline": "1978 Michigan Ballot Proposal 'D'"
+        }
+      },{
+        "media": {
+          "url": "https://cdm16110.contentdm.oclc.org/utils/getthumbnail/collection/p16110coll7/id/104517",
+          "caption": "1978 Michigan Ballot Proposal 'E'",
+          "link": "/ballotproposals/items/cdm104517.html",
+          "credit": "Michigan Statewide Ballot Proposals"
+        },
+        "start_date": { 
+          "year": "1978"
+        },
+        "text": {
+          "headline": "1978 Michigan Ballot Proposal 'E'"
+        }
+      },{
+        "media": {
+          "url": "https://cdm16110.contentdm.oclc.org/utils/getthumbnail/collection/p16110coll7/id/104518",
+          "caption": "1978 Michigan Ballot Proposal 'G'",
+          "link": "/ballotproposals/items/cdm104518.html",
+          "credit": "Michigan Statewide Ballot Proposals"
+        },
+        "start_date": { 
+          "year": "1978"
+        },
+        "text": {
+          "headline": "1978 Michigan Ballot Proposal 'G'"
+        }
+      },{
+        "media": {
+          "url": "https://cdm16110.contentdm.oclc.org/utils/getthumbnail/collection/p16110coll7/id/104519",
+          "caption": "1978 Michigan Ballot Proposal 'H'",
+          "link": "/ballotproposals/items/cdm104519.html",
+          "credit": "Michigan Statewide Ballot Proposals"
+        },
+        "start_date": { 
+          "year": "1978"
+        },
+        "text": {
+          "headline": "1978 Michigan Ballot Proposal 'H'"
+        }
+      },{
+        "media": {
+          "url": "https://cdm16110.contentdm.oclc.org/utils/getthumbnail/collection/p16110coll7/id/104520",
+          "caption": "1978 Michigan Ballot Proposal 'J'",
+          "link": "/ballotproposals/items/cdm104520.html",
+          "credit": "Michigan Statewide Ballot Proposals"
+        },
+        "start_date": { 
+          "year": "1978"
+        },
+        "text": {
+          "headline": "1978 Michigan Ballot Proposal 'J'"
+        }
+      },{
+        "media": {
+          "url": "https://cdm16110.contentdm.oclc.org/utils/getthumbnail/collection/p16110coll7/id/104521",
+          "caption": "1978 Michigan Ballot Proposal 'K'",
+          "link": "/ballotproposals/items/cdm104521.html",
+          "credit": "Michigan Statewide Ballot Proposals"
+        },
+        "start_date": { 
+          "year": "1978"
+        },
+        "text": {
+          "headline": "1978 Michigan Ballot Proposal 'K'"
+        }
+      },{
+        "media": {
+          "url": "https://cdm16110.contentdm.oclc.org/utils/getthumbnail/collection/p16110coll7/id/104522",
+          "caption": "1978 Michigan Ballot Proposal 'M'",
+          "link": "/ballotproposals/items/cdm104522.html",
+          "credit": "Michigan Statewide Ballot Proposals"
+        },
+        "start_date": { 
+          "year": "1978"
+        },
+        "text": {
+          "headline": "1978 Michigan Ballot Proposal 'M'"
+        }
+      },{
+        "media": {
+          "url": "https://cdm16110.contentdm.oclc.org/utils/getthumbnail/collection/p16110coll7/id/104523",
+          "caption": "1978 Michigan Ballot Proposal 'R'",
+          "link": "/ballotproposals/items/cdm104523.html",
+          "credit": "Michigan Statewide Ballot Proposals"
+        },
+        "start_date": { 
+          "year": "1978"
+        },
+        "text": {
+          "headline": "1978 Michigan Ballot Proposal 'R'"
+        }
+      },{
+        "media": {
+          "url": "https://cdm16110.contentdm.oclc.org/utils/getthumbnail/collection/p16110coll7/id/104499",
+          "caption": "1980 Michigan Ballot Proposals",
+          "link": "/ballotproposals/items/cdm104499.html",
+          "credit": "Michigan Statewide Ballot Proposals"
+        },
+        "start_date": { 
+          "year": "1980"
+        },
+        "text": {
+          "headline": "1980 Michigan Ballot Proposals"
+        }
+      },{
+        "media": {
+          "url": "https://cdm16110.contentdm.oclc.org/utils/getthumbnail/collection/p16110coll7/id/104500",
+          "caption": "1980 Michigan Ballot Proposal 'A'",
+          "link": "/ballotproposals/items/cdm104500.html",
+          "credit": "Michigan Statewide Ballot Proposals"
+        },
+        "start_date": { 
+          "year": "1980"
+        },
+        "text": {
+          "headline": "1980 Michigan Ballot Proposal 'A'"
+        }
+      },{
+        "media": {
+          "url": "https://cdm16110.contentdm.oclc.org/utils/getthumbnail/collection/p16110coll7/id/104501",
+          "caption": "1980 Michigan Ballot Proposal 'B'",
+          "link": "/ballotproposals/items/cdm104501.html",
+          "credit": "Michigan Statewide Ballot Proposals"
+        },
+        "start_date": { 
+          "year": "1980"
+        },
+        "text": {
+          "headline": "1980 Michigan Ballot Proposal 'B'"
+        }
+      },{
+        "media": {
+          "url": "https://cdm16110.contentdm.oclc.org/utils/getthumbnail/collection/p16110coll7/id/104502",
+          "caption": "1980 Michigan Ballot Proposal 'C'",
+          "link": "/ballotproposals/items/cdm104502.html",
+          "credit": "Michigan Statewide Ballot Proposals"
+        },
+        "start_date": { 
+          "year": "1980"
+        },
+        "text": {
+          "headline": "1980 Michigan Ballot Proposal 'C'"
+        }
+      },{
+        "media": {
+          "url": "https://cdm16110.contentdm.oclc.org/utils/getthumbnail/collection/p16110coll7/id/104503",
+          "caption": "1980 Michigan Ballot Proposal 'D'",
+          "link": "/ballotproposals/items/cdm104503.html",
+          "credit": "Michigan Statewide Ballot Proposals"
+        },
+        "start_date": { 
+          "year": "1980"
+        },
+        "text": {
+          "headline": "1980 Michigan Ballot Proposal 'D'"
+        }
+      },{
+        "media": {
+          "url": "https://cdm16110.contentdm.oclc.org/utils/getthumbnail/collection/p16110coll7/id/104504",
+          "caption": "1980 Michigan Ballot Proposal 'E'",
+          "link": "/ballotproposals/items/cdm104504.html",
+          "credit": "Michigan Statewide Ballot Proposals"
+        },
+        "start_date": { 
+          "year": "1980"
+        },
+        "text": {
+          "headline": "1980 Michigan Ballot Proposal 'E'"
+        }
+      },{
+        "media": {
+          "url": "https://cdm16110.contentdm.oclc.org/utils/getthumbnail/collection/p16110coll7/id/104505",
+          "caption": "1980 Michigan Ballot Proposal 'G'",
+          "link": "/ballotproposals/items/cdm104505.html",
+          "credit": "Michigan Statewide Ballot Proposals"
+        },
+        "start_date": { 
+          "year": "1980"
+        },
+        "text": {
+          "headline": "1980 Michigan Ballot Proposal 'G'"
+        }
+      },{
+        "media": {
+          "url": "https://cdm16110.contentdm.oclc.org/utils/getthumbnail/collection/p16110coll7/id/104506",
+          "caption": "1980 Michigan Ballot Proposal 'H'",
+          "link": "/ballotproposals/items/cdm104506.html",
+          "credit": "Michigan Statewide Ballot Proposals"
+        },
+        "start_date": { 
+          "year": "1980"
+        },
+        "text": {
+          "headline": "1980 Michigan Ballot Proposal 'H'"
+        }
+      }
+    ]
+}

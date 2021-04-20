@@ -1,0 +1,54 @@
+{
+    "profile": "data-package",
+    "name": "michigan-statewide-ballot-proposals-data",
+    "title": "Michigan Statewide Ballot Proposals Data",
+    "description": "Metadata and data derived from Michigan Statewide Ballot Proposals. Statewide ballot proposals scanned to PDF format.",
+    "keywords":  ["Michigan","ballot proposals"],
+    "homepage": "https://temoshee.github.io/ballotproposals/",
+    "contributors": [
+        {
+            "title": "Library of Michigan",
+            "path": "https://www.michigan.gov/lawlibrary",
+            "role": "author"
+        }
+    ],
+    "image": "/ballotproposals/assets/img/banner.png",
+    "licenses": [
+        {
+            "name": "CC0-1.0",
+            "title": "CC0 1.0",
+            "path": "https://creativecommons.org/publicdomain/zero/1.0/"
+        }
+    ],
+    "resources": [
+        
+        
+        
+        
+        
+        {
+            "name": "timeline-json",
+            "path": "timelinejs.json",
+            "title": "Michigan Statewide Ballot Proposals timeline metadata",
+            "description": "Time-based metadata formatted for TimelineJS or other applications.",
+            "format":"json",
+            "profile": "data-resource"
+        },
+        {
+            "name": "metadata-csv",
+            "path": "metadata.csv",
+            "title": "Michigan Statewide Ballot Proposals full metadata in csv",
+            "description": "Complete metadata export for Michigan Statewide Ballot Proposals objects.",
+            "format":"csv",
+            "profile":"data-resource"
+        },
+        {
+            "name": "metadata-json",
+            "path": "metadata.json",
+            "title": "Michigan Statewide Ballot Proposals full metadata in json",
+            "description": "Complete metadata export for Michigan Statewide Ballot Proposals objects.",
+            "format":"json",
+            "profile":"data-resource"
+        }
+    ]
+}
