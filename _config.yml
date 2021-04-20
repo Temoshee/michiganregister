@@ -8,46 +8,46 @@
 # URL VARIABLES
 #
 # site domain, full URL to the production location of your collection
-url: https://www.lib.uidaho.edu
+url: https://Temoshee.github.io
 # path to location on the domain if necessary e.g. /digital/hjccc
-baseurl: /demo/psychiana
+baseurl: /ballotproposals
 # location of code, the full url to your github repository
-source-code: https://github.com/CollectionBuilder
+source-code: https://github.com/Temoshee
 
 ##########
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: Michigan Ballot Proposals
+title: Michigan Statewide Ballot Proposals
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: Digital Collection Magic with Static Web Technologies
+tagline: Images of paper documents held at the <a href="https://www.michigan.gov/lawlibrary">Library of Michigan, State Law Library</a>
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "CollectionBuilder-CONTENTdm is a template for creating digital collection exhibits on top of existing CONTENTdm repositories. This demo features materials from the Frank B. Robinson Papers documenting Psychiana, a religion popular in the 1930s and 40s." 
+description: Statewide ballot proposals scanned to PDF format.
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
-keywords: idaho;history;inland northwest 
+keywords: Michigan;ballot proposals
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: CollectionBuilder
+author: Timothy Watters
 # Organization branding
-organization-name: "Digital Initiatives, University of Idaho Library"
-organization-link: https://www.lib.uidaho.edu/digital/
-organization-logo-banner: https://www.lib.uidaho.edu/media/digital/justdi_logo_sm.png
-organization-logo-nav: https://www.lib.uidaho.edu/media/digital/bannerlogo_allwhite.png
+organization-name: "Library of Michigan"
+organization-link: https://www.michigan.gov/lawlibrary
+organization-logo-banner: https://cdm16110.contentdm.oclc.org/customizations/global/images/logo.svg
+organization-logo-nav: https://www.michigan.gov/images/libraryofmichigan/LM_2020_LM_Digital_Logo_rs_704422_7.PNG
 
 
 ##########
 # COLLECTION SETTINGS
 #
 # choose metadata: this is the name of the csv file in your _data directory that describes the objects in your collection
-metadata: demo_psychiana
+metadata: metaprops
 # contentdm collection name, matches collection ID used by CDM
-cdm-collection-id: psychiana
+cdm-collection-id: 	p16110coll7
 # CONTENTdm server url
-cdm-url: https://digital.lib.uidaho.edu
+cdm-url: https://cdm16110.contentdm.oclc.org
 # page generation settings 
 # "data" value must be the name of the metadata file (other values should be not be changed)
 page_gen:
-  - data: 'demo_psychiana'
+  - data: 'metaprops'
     template: 'items'
     name: 'objectid'
     dir: 'items'
@@ -68,7 +68,7 @@ page_gen:
 # ROBOTS EXCLUDE
 #
 # set noindex to true if you do NOT want Google to index your site
-# noindex: true 
+noindex: true 
 
 ##########
 # BUILD SETTINGS 
