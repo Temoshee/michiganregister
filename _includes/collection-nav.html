@@ -35,7 +35,7 @@
                     <a class="nav-link " href="{{ site.cdm-url }}/search/collection/{{ site.data[site.metadata] | map: 'collectionid' | push: site.cdm-collection-id | compact | uniq | join: '!' }}/" target="_blank" rel="noopener">Database</a>
                 </li>
             </ul>
-            {% include nav-search-cdm.html %}
+            {% include nav-search-browse.html %}
         </div>
     </div>    
 </nav>
