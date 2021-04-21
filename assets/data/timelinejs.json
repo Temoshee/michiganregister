@@ -642,6 +642,123 @@
         "text": {
           "headline": "1980 Michigan Ballot Proposal 'H'"
         }
+      },{
+        "media": {
+          "url": "https://cdm16110.contentdm.oclc.org/utils/getthumbnail/collection/p16110coll7/id/104553",
+          "caption": "1981 Michigan Ballot Proposal 'A'",
+          "link": "/ballotproposals/items/cdm104553.html",
+          "credit": "Michigan Statewide Ballot Proposals"
+        },
+        "start_date": { 
+          "year": "1981"
+        },
+        "text": {
+          "headline": "1981 Michigan Ballot Proposal 'A'"
+        }
+      },{
+        "media": {
+          "url": "https://cdm16110.contentdm.oclc.org/utils/getthumbnail/collection/p16110coll7/id/104464",
+          "caption": "1982 Michigan Ballot Proposals",
+          "link": "/ballotproposals/items/cdm104464.html",
+          "credit": "Michigan Statewide Ballot Proposals"
+        },
+        "start_date": { 
+          "year": "1982"
+        },
+        "text": {
+          "headline": "1982 Michigan Ballot Proposals"
+        }
+      },{
+        "media": {
+          "url": "https://cdm16110.contentdm.oclc.org/utils/getthumbnail/collection/p16110coll7/id/104465",
+          "caption": "1982 Michigan Ballot Proposal 'A'",
+          "link": "/ballotproposals/items/cdm104465.html",
+          "credit": "Michigan Statewide Ballot Proposals"
+        },
+        "start_date": { 
+          "year": "1982"
+        },
+        "text": {
+          "headline": "1982 Michigan Ballot Proposal 'A'"
+        }
+      },{
+        "media": {
+          "url": "https://cdm16110.contentdm.oclc.org/utils/getthumbnail/collection/p16110coll7/id/104466",
+          "caption": "1982 Michigan Ballot Proposal 'B'",
+          "link": "/ballotproposals/items/cdm104466.html",
+          "credit": "Michigan Statewide Ballot Proposals"
+        },
+        "start_date": { 
+          "year": "1982"
+        },
+        "text": {
+          "headline": "1982 Michigan Ballot Proposal 'B'"
+        }
+      },{
+        "media": {
+          "url": "https://cdm16110.contentdm.oclc.org/utils/getthumbnail/collection/p16110coll7/id/104467",
+          "caption": "1982 Michigan Ballot Proposal 'C'",
+          "link": "/ballotproposals/items/cdm104467.html",
+          "credit": "Michigan Statewide Ballot Proposals"
+        },
+        "start_date": { 
+          "year": "1982"
+        },
+        "text": {
+          "headline": "1982 Michigan Ballot Proposal 'C'"
+        }
+      },{
+        "media": {
+          "url": "https://cdm16110.contentdm.oclc.org/utils/getthumbnail/collection/p16110coll7/id/104468",
+          "caption": "1982 Michigan Ballot Proposal 'D'",
+          "link": "/ballotproposals/items/cdm104468.html",
+          "credit": "Michigan Statewide Ballot Proposals"
+        },
+        "start_date": { 
+          "year": "1982"
+        },
+        "text": {
+          "headline": "1982 Michigan Ballot Proposal 'D'"
+        }
+      },{
+        "media": {
+          "url": "https://cdm16110.contentdm.oclc.org/utils/getthumbnail/collection/p16110coll7/id/104469",
+          "caption": "1982 Michigan Ballot Proposal 'E'",
+          "link": "/ballotproposals/items/cdm104469.html",
+          "credit": "Michigan Statewide Ballot Proposals"
+        },
+        "start_date": { 
+          "year": "1982"
+        },
+        "text": {
+          "headline": "1982 Michigan Ballot Proposal 'E'"
+        }
+      },{
+        "media": {
+          "url": "https://cdm16110.contentdm.oclc.org/utils/getthumbnail/collection/p16110coll7/id/104470",
+          "caption": "1982 Michigan Ballot Proposal 'G'",
+          "link": "/ballotproposals/items/cdm104470.html",
+          "credit": "Michigan Statewide Ballot Proposals"
+        },
+        "start_date": { 
+          "year": "1982"
+        },
+        "text": {
+          "headline": "1982 Michigan Ballot Proposal 'G'"
+        }
+      },{
+        "media": {
+          "url": "https://cdm16110.contentdm.oclc.org/utils/getthumbnail/collection/p16110coll7/id/104471",
+          "caption": "1982 Michigan Ballot Proposal 'H'",
+          "link": "/ballotproposals/items/cdm104471.html",
+          "credit": "Michigan Statewide Ballot Proposals"
+        },
+        "start_date": { 
+          "year": "1982"
+        },
+        "text": {
+          "headline": "1982 Michigan Ballot Proposal 'H'"
+        }
       }
     ]
 }
