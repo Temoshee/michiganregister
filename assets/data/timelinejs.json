@@ -902,6 +902,19 @@
         "text": {
           "headline": "1988 Michigan Ballot Proposal 'C'"
         }
+      },{
+        "media": {
+          "url": "https://cdm16110.contentdm.oclc.org/utils/getthumbnail/collection/p16110coll7/id/104483",
+          "caption": "1988 Michigan Ballot Proposal 'D'",
+          "link": "/ballotproposals/items/cdm104483.html",
+          "credit": "Michigan Statewide Ballot Proposals"
+        },
+        "start_date": { 
+          "year": "1988"
+        },
+        "text": {
+          "headline": "1988 Michigan Ballot Proposal 'D'"
+        }
       }
     ]
 }
