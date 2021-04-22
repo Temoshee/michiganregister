@@ -9,9 +9,9 @@
         "logo": "https://cdm16110.contentdm.oclc.org/customizations/global/images/logo.svg" 
     },
     "date_start": "1931",
-    "date_end": "1988",
+    "date_end": "1992",
     "objects": {
-        "application/pdf": "68"
+        "application/pdf": "74"
         
     },
     "data": "https://temoshee.github.io/ballotproposals/assets/data/datapackage.json",

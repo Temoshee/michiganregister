@@ -915,6 +915,84 @@
         "text": {
           "headline": "1988 Michigan Ballot Proposal 'D'"
         }
+      },{
+        "media": {
+          "url": "https://cdm16110.contentdm.oclc.org/utils/getthumbnail/collection/p16110coll7/id/104477",
+          "caption": "1989 Michigan Ballot Proposal 'A'",
+          "link": "/ballotproposals/items/cdm104477.html",
+          "credit": "Michigan Statewide Ballot Proposals"
+        },
+        "start_date": { 
+          "year": "1989"
+        },
+        "text": {
+          "headline": "1989 Michigan Ballot Proposal 'A'"
+        }
+      },{
+        "media": {
+          "url": "https://cdm16110.contentdm.oclc.org/utils/getthumbnail/collection/p16110coll7/id/104478",
+          "caption": "1989 Michigan Ballot Proposal 'B'",
+          "link": "/ballotproposals/items/cdm104478.html",
+          "credit": "Michigan Statewide Ballot Proposals"
+        },
+        "start_date": { 
+          "year": "1989"
+        },
+        "text": {
+          "headline": "1989 Michigan Ballot Proposal 'B'"
+        }
+      },{
+        "media": {
+          "url": "https://cdm16110.contentdm.oclc.org/utils/getthumbnail/collection/p16110coll7/id/104489",
+          "caption": "1992 Michigan Ballot Proposal 'A'",
+          "link": "/ballotproposals/items/cdm104489.html",
+          "credit": "Michigan Statewide Ballot Proposals"
+        },
+        "start_date": { 
+          "year": "1992"
+        },
+        "text": {
+          "headline": "1992 Michigan Ballot Proposal 'A'"
+        }
+      },{
+        "media": {
+          "url": "https://cdm16110.contentdm.oclc.org/utils/getthumbnail/collection/p16110coll7/id/104486",
+          "caption": "1992 Michigan Ballot Proposal 'B'",
+          "link": "/ballotproposals/items/cdm104486.html",
+          "credit": "Michigan Statewide Ballot Proposals"
+        },
+        "start_date": { 
+          "year": "1992"
+        },
+        "text": {
+          "headline": "1992 Michigan Ballot Proposal 'B'"
+        }
+      },{
+        "media": {
+          "url": "https://cdm16110.contentdm.oclc.org/utils/getthumbnail/collection/p16110coll7/id/104487",
+          "caption": "1992 Michigan Ballot Proposal 'C'",
+          "link": "/ballotproposals/items/cdm104487.html",
+          "credit": "Michigan Statewide Ballot Proposals"
+        },
+        "start_date": { 
+          "year": "1992"
+        },
+        "text": {
+          "headline": "1992 Michigan Ballot Proposal 'C'"
+        }
+      },{
+        "media": {
+          "url": "https://cdm16110.contentdm.oclc.org/utils/getthumbnail/collection/p16110coll7/id/104488",
+          "caption": "1992 Michigan Ballot Proposal 'D'",
+          "link": "/ballotproposals/items/cdm104488.html",
+          "credit": "Michigan Statewide Ballot Proposals"
+        },
+        "start_date": { 
+          "year": "1992"
+        },
+        "text": {
+          "headline": "1992 Michigan Ballot Proposal 'D'"
+        }
       }
     ]
 }
