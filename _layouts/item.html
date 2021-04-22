@@ -33,6 +33,8 @@ gallery: true
                             <source src="{% include download/video.html %}" type="video/mp4">
                             Your browser does not support the video tag.
                         </video>
+                        {%- elsif page.format contains 'pdf' -%}
+                        <a href="{% include download/item.html %}" target="_blank"><img src="{{ site.cdm-url }}/digital/api/singleitem/image/pdf/{{ site.cdm-collection-id }}/{{ page.cdmid }}/default.png" alt="item thumbnail for {{ page.title | escape }}" class="img-fluid thumb"></a>
                         {%- else -%}
                         <a href="{% include download/item.html %}" target="_blank"><img src="{% include image/thumb.html %}" alt="item thumbnail for {{ page.title | escape }}" class="img-fluid thumb"></a>
                         {%- endif -%}
