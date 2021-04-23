@@ -1094,6 +1094,71 @@
         "text": {
           "headline": "1996 Michigan Ballot Proposals"
         }
-      }
+      },{
+        "media": {
+          "url": "https://cdm16110.contentdm.oclc.org/utils/getthumbnail/collection/p16110coll7/id/140876",
+          "caption": "1998 Michigan Ballot Proposals",
+          "link": "/ballotproposals/items/cdm140876.html",
+          "credit": "Michigan Statewide Ballot Proposals"
+        },
+        "start_date": { 
+          "year": "1998"
+        },
+        "text": {
+          "headline": "1998 Michigan Ballot Proposals"
+        }
+      },{
+        "media": {
+          "url": "https://cdm16110.contentdm.oclc.org/utils/getthumbnail/collection/p16110coll7/id/104535",
+          "caption": "2000 Michigan Ballot Proposals",
+          "link": "/ballotproposals/items/cdm104535.html",
+          "credit": "Michigan Statewide Ballot Proposals"
+        },
+        "start_date": { 
+          "year": "2000"
+        },
+        "text": {
+          "headline": "2000 Michigan Ballot Proposals"
+        }
+      },{
+        "media": {
+          "url": "https://cdm16110.contentdm.oclc.org/utils/getthumbnail/collection/p16110coll7/id/104540",
+          "caption": "2002 Michigan Ballot Proposals",
+          "link": "/ballotproposals/items/cdm104540.html",
+          "credit": "Michigan Statewide Ballot Proposals"
+        },
+        "start_date": { 
+          "year": "2002"
+        },
+        "text": {
+          "headline": "2002 Michigan Ballot Proposals"
+        }
+      },{
+        "media": {
+          "url": "https://cdm16110.contentdm.oclc.org/utils/getthumbnail/collection/p16110coll7/id/104554",
+          "caption": "2004 Michigan Ballot Proposals",
+          "link": "/ballotproposals/items/cdm104554.html",
+          "credit": "Michigan Statewide Ballot Proposals"
+        },
+        "start_date": { 
+          "year": "2004"
+        },
+        "text": {
+          "headline": "2004 Michigan Ballot Proposals"
+        }
+      },{
+        "media": {
+          "url": "https://cdm16110.contentdm.oclc.org/utils/getthumbnail/collection/p16110coll7/id/104550",
+          "caption": "2008 Michigan Ballot Proposals",
+          "link": "/ballotproposals/items/cdm104550.html",
+          "credit": "Michigan Statewide Ballot Proposals"
+        },
+        "start_date": { 
+          "year": "2008"
+        },
+        "text": {
+          "headline": "2008 Michigan Ballot Proposals"
+        }
+      },
     ]
 }
