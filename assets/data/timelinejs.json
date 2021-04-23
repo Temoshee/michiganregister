@@ -1036,6 +1036,64 @@
         "text": {
           "headline": "1994 (November) Michigan Ballot Proposal 'A'"
         }
+      },{
+        "media": {
+          "url": "https://cdm16110.contentdm.oclc.org/utils/getthumbnail/collection/p16110coll7/id/138413",
+          "caption": "1994 (November) Michigan Ballot Proposal 'B'",
+          "link": "/ballotproposals/items/cdm138413.html",
+          "credit": "Michigan Statewide Ballot Proposals"
+        },
+        "start_date": { 
+          "month": "11",
+          "day": "",
+          "year": "1994"
+        },
+        "text": {
+          "headline": "1994 (November) Michigan Ballot Proposal 'B'"
+        }
+      },{
+        "media": {
+          "url": "https://cdm16110.contentdm.oclc.org/utils/getthumbnail/collection/p16110coll7/id/138414",
+          "caption": "1994 (November) Michigan Ballot Proposal 'C'",
+          "link": "/ballotproposals/items/cdm138414.html",
+          "credit": "Michigan Statewide Ballot Proposals"
+        },
+        "start_date": { 
+          "month": "11",
+          "day": "",
+          "year": "1994"
+        },
+        "text": {
+          "headline": "1994 (November) Michigan Ballot Proposal 'C'"
+        }
+      },{
+        "media": {
+          "url": "https://cdm16110.contentdm.oclc.org/utils/getthumbnail/collection/p16110coll7/id/138415",
+          "caption": "1994 (November) Michigan Ballot Proposal 'P'",
+          "link": "/ballotproposals/items/cdm138415.html",
+          "credit": "Michigan Statewide Ballot Proposals"
+        },
+        "start_date": { 
+          "month": "11",
+          "day": "",
+          "year": "1994"
+        },
+        "text": {
+          "headline": "1994 (November) Michigan Ballot Proposal 'P'"
+        }
+      },{
+        "media": {
+          "url": "https://cdm16110.contentdm.oclc.org/utils/getthumbnail/collection/p16110coll7/id/104560",
+          "caption": "1996 Michigan Ballot Proposals",
+          "link": "/ballotproposals/items/cdm104560.html",
+          "credit": "Michigan Statewide Ballot Proposals"
+        },
+        "start_date": { 
+          "year": "1996"
+        },
+        "text": {
+          "headline": "1996 Michigan Ballot Proposals"
+        }
       }
     ]
 }
