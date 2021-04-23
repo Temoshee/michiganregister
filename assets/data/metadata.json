@@ -2143,6 +2143,93 @@
         "object_thumb": "https://cdm16110.contentdm.oclc.org/utils/getthumbnail/collection/p16110coll7/id/104488",
         "object_download": "https://cdm16110.contentdm.oclc.org/utils/getfile/collection/p16110coll7/id/104488.pdf",
         "reference_url": "https://temoshee.github.io/ballotproposals/items/cdm104488.html"
+    },
+    { 
+        "title": "1993 Michigan Ballot Proposal 'A'",
+        
+        
+        
+        "date": "1992",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "format": "application/pdf",
+        
+        
+        "cdmid": "104557",
+        "objectid": "cdm104557",
+        
+        "object_thumb": "https://cdm16110.contentdm.oclc.org/utils/getthumbnail/collection/p16110coll7/id/104557",
+        "object_download": "https://cdm16110.contentdm.oclc.org/utils/getfile/collection/p16110coll7/id/104557.pdf",
+        "reference_url": "https://temoshee.github.io/ballotproposals/items/cdm104557.html"
+    },
+    { 
+        "title": "1994 (March) Michigan Ballot Proposal 'A'",
+        
+        
+        
+        "date": "1994-03",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "format": "application/pdf",
+        
+        
+        "cdmid": "138411",
+        "objectid": "cdm138411",
+        
+        "object_thumb": "https://cdm16110.contentdm.oclc.org/utils/getthumbnail/collection/p16110coll7/id/138411",
+        "object_download": "https://cdm16110.contentdm.oclc.org/utils/getfile/collection/p16110coll7/id/138411.pdf",
+        "reference_url": "https://temoshee.github.io/ballotproposals/items/cdm138411.html"
+    },
+    { 
+        "title": "1994 (November) Michigan Ballot Proposal 'A'",
+        
+        
+        
+        "date": "1994-11",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "format": "application/pdf",
+        
+        
+        "cdmid": "138412",
+        "objectid": "cdm138412",
+        
+        "object_thumb": "https://cdm16110.contentdm.oclc.org/utils/getthumbnail/collection/p16110coll7/id/138412",
+        "object_download": "https://cdm16110.contentdm.oclc.org/utils/getfile/collection/p16110coll7/id/138412.pdf",
+        "reference_url": "https://temoshee.github.io/ballotproposals/items/cdm138412.html"
     }
     
 ] }

@@ -9,12 +9,12 @@
         "logo": "https://cdm16110.contentdm.oclc.org/customizations/global/images/logo.svg" 
     },
     "date_start": "1931",
-    "date_end": "1992",
+    "date_end": "1994",
     "objects": {
-        "application/pdf": "74"
+        "application/pdf": "77"
         
     },
     "data": "https://temoshee.github.io/ballotproposals/assets/data/datapackage.json",
-    "last_build_date": "2021-04-22"
+    "last_build_date": "2021-04-23"
 }
 

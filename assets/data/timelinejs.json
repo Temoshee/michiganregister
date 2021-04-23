@@ -993,6 +993,49 @@
         "text": {
           "headline": "1992 Michigan Ballot Proposal 'D'"
         }
+      },{
+        "media": {
+          "url": "https://cdm16110.contentdm.oclc.org/utils/getthumbnail/collection/p16110coll7/id/104557",
+          "caption": "1993 Michigan Ballot Proposal 'A'",
+          "link": "/ballotproposals/items/cdm104557.html",
+          "credit": "Michigan Statewide Ballot Proposals"
+        },
+        "start_date": { 
+          "year": "1992"
+        },
+        "text": {
+          "headline": "1993 Michigan Ballot Proposal 'A'"
+        }
+      },{
+        "media": {
+          "url": "https://cdm16110.contentdm.oclc.org/utils/getthumbnail/collection/p16110coll7/id/138411",
+          "caption": "1994 (March) Michigan Ballot Proposal 'A'",
+          "link": "/ballotproposals/items/cdm138411.html",
+          "credit": "Michigan Statewide Ballot Proposals"
+        },
+        "start_date": { 
+          "month": "03",
+          "day": "",
+          "year": "1994"
+        },
+        "text": {
+          "headline": "1994 (March) Michigan Ballot Proposal 'A'"
+        }
+      },{
+        "media": {
+          "url": "https://cdm16110.contentdm.oclc.org/utils/getthumbnail/collection/p16110coll7/id/138412",
+          "caption": "1994 (November) Michigan Ballot Proposal 'A'",
+          "link": "/ballotproposals/items/cdm138412.html",
+          "credit": "Michigan Statewide Ballot Proposals"
+        },
+        "start_date": { 
+          "month": "11",
+          "day": "",
+          "year": "1994"
+        },
+        "text": {
+          "headline": "1994 (November) Michigan Ballot Proposal 'A'"
+        }
       }
     ]
 }
