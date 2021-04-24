@@ -2,7 +2,7 @@
     "profile": "data-package",
     "name": "michigan-statewide-ballot-proposals-data",
     "title": "Michigan Statewide Ballot Proposals Data",
-    "description": "Metadata and data derived from Michigan Statewide Ballot Proposals. Images of Michigan statewide ballot proposals scanned to PDF format from 1931-1999.",
+    "description": "Metadata and data derived from Michigan Statewide Ballot Proposals. Images of Michigan statewide ballot proposals scanned to PDF format from 1931-2008.",
     "keywords":  ["Michigan","ballot proposals"],
     "homepage": "https://temoshee.github.io/ballotproposals/",
     "contributors": [
