@@ -2,7 +2,7 @@
     "title": "Michigan Statewide Ballot Proposals",
     "url": "https://temoshee.github.io/ballotproposals/",
     "image": "/ballotproposals/assets/img/banner.png", 
-    "description": "Images of Michigan statewide ballot proposals scanned to PDF format. This is not a complete collection.",
+    "description": "Images of Michigan statewide ballot proposals scanned to PDF format from 1931-1999.",
     "publisher": { 
         "name": "Library of Michigan", 
         "url": "https://www.michigan.gov/lawlibrary", 
@@ -15,6 +15,6 @@
         
     },
     "data": "https://temoshee.github.io/ballotproposals/assets/data/datapackage.json",
-    "last_build_date": "2021-04-23"
+    "last_build_date": "2021-04-24"
 }
 
