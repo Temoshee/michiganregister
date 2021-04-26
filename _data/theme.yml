@@ -24,7 +24,7 @@ carousel-height: # in px, but don't include the "px"; default is 450.
 #
 # Featured image on About page - if left blank, CB will use image featured on the home page
 # use either an objectid (from an item in this collect), a relative location of an image in this repo, or a full url to an image elsewhere
-about-featured-image: demo_psychiana565
+# about-featured-image: 
 
 ##########
 # BROWSE PAGE
