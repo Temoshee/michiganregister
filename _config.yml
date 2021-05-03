@@ -20,7 +20,7 @@ source-code: https://github.com/libraryofmichigan
 # title of site appears in banner
 title: Michigan Statewide Ballot Proposals
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: Images of historical paper documents held at the <a href="https://www.michigan.gov/lawlibrary" target="_blank" rel="noopener noreferrer">Library of Michigan, State Law Library</a>
+tagline: Images of historical paper documents held at the <a href="https://www.michigan.gov/lawlibrary" target="_blank" rel="noreferrer noopener">Library of Michigan, State Law Library</a>
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
 description: Images of Michigan statewide ballot proposals 1931-2008. This collection may not be complete.
