@@ -8,24 +8,24 @@
 # URL VARIABLES
 #
 # site domain, full URL to the production location of your collection
-url: https://libraryofmichigan.github.io
+url: https://Temoshee.github.io
 # path to location on the domain if necessary e.g. /digital/hjccc
-baseurl: /ballotproposals
+baseurl: /michiganregister
 # location of code, the full url to your github repository
-source-code: https://github.com/libraryofmichigan
+source-code: https://github.com/Temoshee
 
 ##########
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: Michigan Statewide Ballot Proposals
+title: Michigan Register 1984-1998
 # tagline, a short phrase that will appear throughout the site in the top banner
 tagline: Images of historical paper documents held at the <a href="https://www.michigan.gov/lawlibrary" target="_blank" rel="noreferrer noopener">Library of Michigan, State Law Library</a>
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: Images of Michigan statewide ballot proposals 1931-2008 as presented on the ballots.
+description: Images of paper copies of the Michigan Register, the monthly publication of administrative rules.
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
-keywords: Michigan;ballot proposals
+keywords: Michigan;regulations;rules
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: Timothy Watters
 # Organization branding
@@ -39,15 +39,15 @@ organization-logo-nav: https://www.michigan.gov/images/libraryofmichigan/LM_2020
 # COLLECTION SETTINGS
 #
 # choose metadata: this is the name of the csv file in your _data directory that describes the objects in your collection
-metadata: metaprops
+metadata: miregmetadata
 # contentdm collection name, matches collection ID used by CDM
-cdm-collection-id: 	p16110coll7
+cdm-collection-id: 	p16110coll2
 # CONTENTdm server url
 cdm-url: https://cdm16110.contentdm.oclc.org
 # page generation settings 
 # "data" value must be the name of the metadata file (other values should be not be changed)
 page_gen:
-  - data: 'metaprops'
+  - data: 'miregmetadata'
     template: 'items'
     name: 'objectid'
     dir: 'items'
@@ -68,7 +68,7 @@ page_gen:
 # ROBOTS EXCLUDE
 #
 # set noindex to true if you do NOT want Google to index your site
-# noindex: true 
+noindex: true 
 
 ##########
 # BUILD SETTINGS 
