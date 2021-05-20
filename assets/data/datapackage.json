@@ -1,10 +1,10 @@
 {
     "profile": "data-package",
-    "name": "michigan-statewide-ballot-proposals-data",
-    "title": "Michigan Statewide Ballot Proposals Data",
-    "description": "Metadata and data derived from Michigan Statewide Ballot Proposals. Images of Michigan statewide ballot proposals 1931-2008 as presented on the ballots.",
-    "keywords":  ["Michigan","ballot proposals"],
-    "homepage": "https://libraryofmichigan.github.io/ballotproposals/",
+    "name": "michigan-register-1984-1998-data",
+    "title": "Michigan Register 1984-1998 Data",
+    "description": "Metadata and data derived from Michigan Register 1984-1998. Images of paper copies of the Michigan Register, the monthly publication of administrative rules.",
+    "keywords":  ["Michigan","regulations","rules"],
+    "homepage": "https://temoshee.github.io/michiganregister/",
     "contributors": [
         {
             "title": "Library of Michigan",
@@ -12,7 +12,7 @@
             "role": "author"
         }
     ],
-    "image": "/ballotproposals/assets/img/banner.png",
+    "image": "/michiganregister/assets/img/banner.png",
     "licenses": [
         {
             "name": "CC0-1.0",
@@ -29,7 +29,7 @@
         {
             "name": "timeline-json",
             "path": "timelinejs.json",
-            "title": "Michigan Statewide Ballot Proposals timeline metadata",
+            "title": "Michigan Register 1984-1998 timeline metadata",
             "description": "Time-based metadata formatted for TimelineJS or other applications.",
             "format":"json",
             "profile": "data-resource"
@@ -37,16 +37,16 @@
         {
             "name": "metadata-csv",
             "path": "metadata.csv",
-            "title": "Michigan Statewide Ballot Proposals full metadata in csv",
-            "description": "Complete metadata export for Michigan Statewide Ballot Proposals objects.",
+            "title": "Michigan Register 1984-1998 full metadata in csv",
+            "description": "Complete metadata export for Michigan Register 1984-1998 objects.",
             "format":"csv",
             "profile":"data-resource"
         },
         {
             "name": "metadata-json",
             "path": "metadata.json",
-            "title": "Michigan Statewide Ballot Proposals full metadata in json",
-            "description": "Complete metadata export for Michigan Statewide Ballot Proposals objects.",
+            "title": "Michigan Register 1984-1998 full metadata in json",
+            "description": "Complete metadata export for Michigan Register 1984-1998 objects.",
             "format":"json",
             "profile":"data-resource"
         }

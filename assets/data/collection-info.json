@@ -1,20 +1,20 @@
 { 
-    "title": "Michigan Statewide Ballot Proposals",
-    "url": "https://libraryofmichigan.github.io/ballotproposals/",
-    "image": "/ballotproposals/assets/img/banner.png", 
-    "description": "Images of Michigan statewide ballot proposals 1931-2008 as presented on the ballots.",
+    "title": "Michigan Register 1984-1998",
+    "url": "https://temoshee.github.io/michiganregister/",
+    "image": "/michiganregister/assets/img/banner.png", 
+    "description": "Images of paper copies of the Michigan Register, the monthly publication of administrative rules.",
     "publisher": { 
         "name": "Library of Michigan", 
         "url": "https://lmdigital.libraryofmichigan.org/", 
         "logo": "https://cdm16110.contentdm.oclc.org/customizations/global/images/logo.svg" 
     },
-    "date_start": "1931",
-    "date_end": "2008",
+    "date_start": "1984",
+    "date_end": "1984",
     "objects": {
-        "application/pdf": "87"
+        "application/pdf": "2"
         
     },
-    "data": "https://libraryofmichigan.github.io/ballotproposals/assets/data/datapackage.json",
+    "data": "https://temoshee.github.io/michiganregister/assets/data/datapackage.json",
     "last_build_date": "2021-05-20"
 }
 
