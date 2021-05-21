@@ -32,7 +32,7 @@
         
         
         
-        "date": "1984-01",
+        "date": "1984-02",
         
         
         
@@ -55,6 +55,35 @@
         "object_thumb": "https://cdm16110.contentdm.oclc.org/utils/getthumbnail/collection/p16110coll2/id/147109",
         "object_download": "https://cdm16110.contentdm.oclc.org/utils/getfile/collection/p16110coll2/id/147109.pdf",
         "reference_url": "https://temoshee.github.io/michiganregister/items/cdm147109.html"
+    },
+    { 
+        "title": "Michigan Register no. 3 (March 1984)",
+        
+        
+        
+        "date": "1984-03",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "format": "application/pdf",
+        
+        
+        "cdmid": "147110",
+        "objectid": "cdm147110",
+        
+        "object_thumb": "https://cdm16110.contentdm.oclc.org/utils/getthumbnail/collection/p16110coll2/id/147110",
+        "object_download": "https://cdm16110.contentdm.oclc.org/utils/getfile/collection/p16110coll2/id/147110.pdf",
+        "reference_url": "https://temoshee.github.io/michiganregister/items/cdm147110.html"
     }
     
 ] }

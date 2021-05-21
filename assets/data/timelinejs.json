@@ -34,12 +34,27 @@
           "credit": "Michigan Register 1984-1998"
         },
         "start_date": { 
-          "month": "01",
+          "month": "02",
           "day": "",
           "year": "1984"
         },
         "text": {
           "headline": "Michigan Register no. 2 (February 1984)"
+        }
+      },{
+        "media": {
+          "url": "https://cdm16110.contentdm.oclc.org/utils/getthumbnail/collection/p16110coll2/id/147110",
+          "caption": "Michigan Register no. 3 (March 1984)",
+          "link": "/michiganregister/items/cdm147110.html",
+          "credit": "Michigan Register 1984-1998"
+        },
+        "start_date": { 
+          "month": "03",
+          "day": "",
+          "year": "1984"
+        },
+        "text": {
+          "headline": "Michigan Register no. 3 (March 1984)"
         }
       }
     ]
