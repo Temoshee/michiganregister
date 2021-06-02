@@ -116,6 +116,21 @@
         "text": {
           "headline": "Michigan Register no. 7 (July 1984)"
         }
+      },{
+        "media": {
+          "url": "https://cdm16110.contentdm.oclc.org/utils/getthumbnail/collection/p16110coll2/id/147115",
+          "caption": "Michigan Register no. 8 (August 1984)",
+          "link": "/michiganregister/items/cdm147115.html",
+          "credit": "Michigan Register 1984-1998"
+        },
+        "start_date": { 
+          "month": "08",
+          "day": "",
+          "year": "1984"
+        },
+        "text": {
+          "headline": "Michigan Register no. 8 (August 1984)"
+        }
       }
     ]
 }
