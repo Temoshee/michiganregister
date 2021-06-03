@@ -161,6 +161,36 @@
         "text": {
           "headline": "Michigan Register no. 10 (October 1984)"
         }
+      },{
+        "media": {
+          "url": "https://cdm16110.contentdm.oclc.org/utils/getthumbnail/collection/p16110coll2/id/147118",
+          "caption": "Michigan Register no. 11 (November 1984)",
+          "link": "/michiganregister/items/cdm147118.html",
+          "credit": "Michigan Register 1984-1998"
+        },
+        "start_date": { 
+          "month": "11",
+          "day": "",
+          "year": "1984"
+        },
+        "text": {
+          "headline": "Michigan Register no. 11 (November 1984)"
+        }
+      },{
+        "media": {
+          "url": "https://cdm16110.contentdm.oclc.org/utils/getthumbnail/collection/p16110coll2/id/147119",
+          "caption": "Michigan Register no. 12 (December 1984)",
+          "link": "/michiganregister/items/cdm147119.html",
+          "credit": "Michigan Register 1984-1998"
+        },
+        "start_date": { 
+          "month": "12",
+          "day": "",
+          "year": "1984"
+        },
+        "text": {
+          "headline": "Michigan Register no. 12 (December 1984)"
+        }
       }
     ]
 }
