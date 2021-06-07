@@ -11,10 +11,11 @@
     "date_start": "1984",
     "date_end": "1984",
     "objects": {
-        "application/pdf": "12"
+        "application/pdf": "13",
+        "application/pdf/1985-02": "1"
         
     },
     "data": "https://temoshee.github.io/michiganregister/assets/data/datapackage.json",
-    "last_build_date": "2021-06-03"
+    "last_build_date": "2021-06-07"
 }
 
