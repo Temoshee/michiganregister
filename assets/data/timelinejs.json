@@ -236,6 +236,36 @@
         "text": {
           "headline": "Michigan Register 1985 no. 3 (March 1985)"
         }
+      },{
+        "media": {
+          "url": "https://cdm16110.contentdm.oclc.org/utils/getthumbnail/collection/p16110coll2/id/147123",
+          "caption": "Michigan Register 1985 no. 4 (April 1985)",
+          "link": "/michiganregister/items/cdm147123.html",
+          "credit": "Michigan Register 1984-1998"
+        },
+        "start_date": { 
+          "month": "04",
+          "day": "",
+          "year": "1985"
+        },
+        "text": {
+          "headline": "Michigan Register 1985 no. 4 (April 1985)"
+        }
+      },{
+        "media": {
+          "url": "https://cdm16110.contentdm.oclc.org/utils/getthumbnail/collection/p16110coll2/id/147124",
+          "caption": "Michigan Register 1985 no. 5 (May 1985)",
+          "link": "/michiganregister/items/cdm147124.html",
+          "credit": "Michigan Register 1984-1998"
+        },
+        "start_date": { 
+          "month": "05",
+          "day": "",
+          "year": "1985"
+        },
+        "text": {
+          "headline": "Michigan Register 1985 no. 5 (May 1985)"
+        }
       }
     ]
 }
