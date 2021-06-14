@@ -266,6 +266,21 @@
         "text": {
           "headline": "Michigan Register 1985 no. 5 (May 1985)"
         }
+      },{
+        "media": {
+          "url": "https://cdm16110.contentdm.oclc.org/utils/getthumbnail/collection/p16110coll2/id/147125",
+          "caption": "Michigan Register 1985 no. 6 (June 1985)",
+          "link": "/michiganregister/items/cdm147125.html",
+          "credit": "Michigan Register 1984-1998"
+        },
+        "start_date": { 
+          "month": "06",
+          "day": "",
+          "year": "1985"
+        },
+        "text": {
+          "headline": "Michigan Register 1985 no. 6 (June 1985)"
+        }
       }
     ]
 }
