@@ -371,6 +371,21 @@
         "text": {
           "headline": "Michigan Register 1985 no. 12 (December 1985)"
         }
+      },{
+        "media": {
+          "url": "https://cdm16110.contentdm.oclc.org/utils/getthumbnail/collection/p16110coll2/id/147133",
+          "caption": "Michigan Register 1986 no. 1 (January 1986)",
+          "link": "/michiganregister/items/cdm147133.html",
+          "credit": "Michigan Register 1984-1998"
+        },
+        "start_date": { 
+          "month": "01",
+          "day": "",
+          "year": "1986"
+        },
+        "text": {
+          "headline": "Michigan Register 1986 no. 1 (January 1986)"
+        }
       }
     ]
 }

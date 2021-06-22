@@ -9,12 +9,12 @@
         "logo": "https://cdm16110.contentdm.oclc.org/customizations/global/images/logo.svg" 
     },
     "date_start": "1984",
-    "date_end": "1985",
+    "date_end": "1986",
     "objects": {
-        "application/pdf": "24"
+        "application/pdf": "25"
         
     },
     "data": "https://temoshee.github.io/michiganregister/assets/data/datapackage.json",
-    "last_build_date": "2021-06-16"
+    "last_build_date": "2021-06-22"
 }
 
